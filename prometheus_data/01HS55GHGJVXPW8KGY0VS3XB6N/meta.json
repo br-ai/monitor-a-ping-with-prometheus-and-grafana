@@ -1,0 +1,17 @@
+{
+	"ulid": "01HS55GHGJVXPW8KGY0VS3XB6N",
+	"minTime": 1710633466746,
+	"maxTime": 1710633600000,
+	"stats": {
+		"numSamples": 81,
+		"numSeries": 9,
+		"numChunks": 9
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HS55GHGJVXPW8KGY0VS3XB6N"
+		]
+	},
+	"version": 1
+}
